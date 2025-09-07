@@ -32,3 +32,10 @@ This document provides **long-form, detailed Q&A** covering fundamental concepts
 ## 📝 Content
 
 The repository contains **10 questions with detailed answers**, 
+
+### 🔹 Part 1 (Q1 – Q5)
+1. CNNs vs Vision Transformers (inductive biases, data requirements, interpretability, downstream tasks)  
+2. DETR (architecture, strengths, limitations vs YOLO/Faster R-CNN)  
+3. Semantic segmentation vs instance segmentation (U-Net, DeepLab, Mask R-CNN)  
+4. Self-supervised vs weakly-supervised learning (methods, advantages, potential)  
+5. Scalability challenges in real-world CV (data imbalance, domain shift, efficiency, ethics) 
