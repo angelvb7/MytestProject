@@ -44,4 +44,4 @@ The repository contains **10 questions with detailed answers**,
 7. Domain adaptation (importance, adversarial adaptation, feature alignment, self-training)  
 8. 3D Computer Vision (multi-view geometry, depth estimation, NeRF)  
 9. Generative models (GANs vs diffusion, architectures, use cases)  
-10. Adversarial attacks in CV (nature, vulnerabilities, defense strategies)  
+
