@@ -38,3 +38,11 @@ The repository contains **10 questions with detailed answers**,
 3. Semantic segmentation vs instance segmentation (U-Net, DeepLab, Mask R-CNN)  
 4. Self-supervised vs weakly-supervised learning (methods, advantages, potential)  
 5. Scalability challenges in real-world CV (data imbalance, domain shift, efficiency, ethics) 
+
+
+### 🔹 Part 2 (Q6 – Q10)
+6. Multi-task learning in CV (benefits, challenges, examples: Mask R-CNN, Panoptic FPN)  
+7. Domain adaptation (importance, adversarial adaptation, feature alignment, self-training)  
+8. 3D Computer Vision (multi-view geometry, depth estimation, NeRF)  
+9. Generative models (GANs vs diffusion, architectures, use cases)  
+10. Adversarial attacks in CV (nature, vulnerabilities, defense strategies)  
