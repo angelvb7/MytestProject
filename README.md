@@ -21,7 +21,6 @@ This document provides **long-form, detailed Q&A** covering fundamental concepts
 - Segmentation trade-offs  
 - Self-supervised and weakly-supervised learning  
 - 3D scene understanding  
-- Adversarial robustness  
 
 ---
 
