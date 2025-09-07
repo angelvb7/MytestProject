@@ -4,7 +4,7 @@ AI17C
 
 
 
-# 📘 Computer Vision Interview Q&A (Advanced)
+# 📘 Computer Vision Interview Q&A 
 
 This repository contains a curated list of **10 advanced Computer Vision interview questions and answers**.  
 It is designed to help separe for **technical interviews, thesis defenses, and academic discussions** 
