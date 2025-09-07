@@ -4,7 +4,6 @@ AI17C
 
 QUY NHON-BINH DINH
 
-HELLO - MY NAME IS BUI DINH THANH DANH
 
 # 📘 Computer Vision Interview Q&A (Advanced)
 
