@@ -31,4 +31,4 @@ This document provides **long-form, detailed Q&A** covering fundamental concepts
 
 ## 📝 Content
 
-The repository contains **10 questions with detailed answers**, structured as follows:
+The repository contains **10 questions with detailed answers**, 
