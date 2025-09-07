@@ -2,7 +2,6 @@
 Bui Dinh Thanh Danh
 AI17C
 
-QUY NHON-BINH DINH
 
 
 # 📘 Computer Vision Interview Q&A (Advanced)
