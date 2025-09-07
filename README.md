@@ -27,3 +27,8 @@ This document provides **long-form, detailed Q&A** covering fundamental concepts
 - Adversarial robustness  
 
 ---
+
+
+## 📝 Content
+
+The repository contains **10 questions with detailed answers**, structured as follows:
